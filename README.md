@@ -15,7 +15,7 @@ I also like meeting new people over a cup of coffee.
 
 Email: chris007+linkedin@live.se
 
-LinkedIn: linkedin.com/in/christian-davidov/
+LinkedIn: https://www.linkedin.com/in/christian-davidov/
 
 Looking forward to hearing from you. Check out my projects below! ⬇️
 
