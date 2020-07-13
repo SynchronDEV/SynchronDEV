@@ -6,7 +6,7 @@ Co-founded the Audio Production & Engineering subdivision at Moxie Art Co, an In
 
 In April of 2020, I was selected as one out of 1500 applicants to join &lt;/salt&gt;'s Full Stack Web Development Bootcamp alongside 30 other students to pursue my dream of learning web development.
 
-My skills include, but are not limited to: JavaScript, HTML5, CSS3, React & Redux, Node, Express, Git, REST, Docker, MongoDB, PostgreSQL, Redux, Continous Integration (CI), Test Driven Development (TDD), REST APIs and agile work methods (SCRUM).
+My skills include, but are not limited to: JavaScript, HTML5, CSS3, React & Redux, Node, Express, Git, REST, Docker, MongoDB, PostgreSQL, Redux, Test Driven Development (TDD), REST APIs and agile work methods (SCRUM).
 
 I am also familiar with the Salesforce CRM ecosystem of Custom Objects, Flows, Triggers, Reports & Dashboards, Formula Fields, Lightning Components and more.
 
