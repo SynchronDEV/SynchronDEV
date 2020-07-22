@@ -13,7 +13,7 @@ I am also familiar with the Salesforce CRM ecosystem of Custom Objects, Flows, T
 If you find my profile interesting, please send me a message over LinkedIn.
 I also like meeting new people over a cup of coffee.
 
-Email: chris007+linkedin@live.se
+Email: chris007+github@live.se
 
 LinkedIn: https://www.linkedin.com/in/christian-davidov/
 
