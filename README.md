@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a 22-year-old Ex-Salesforce CRM Project Manager at Klarna turned into Full Stack Web Developer via &lt;/salt&gt;.
+I'm a 22-year-old Ex-Salesforce CRM Associate Project Manager at Klarna turned into Full Stack Web Developer via &lt;/salt&gt;.
 
 Co-founded the Audio Production & Engineering subdivision at Moxie Art Co, an International Brand Strategy & Development company, where we notably won the 'Best Music Video' category in the Los Angeles Film Awards 2019.
 
