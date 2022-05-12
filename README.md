@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm an Ex-Salesforce CRM Associate Project Manager at Klarna turned into Full Stack Web Developer via &lt;/salt&gt;.
+I'm a former Project Manager and Software Engineer at Sweden's biggest Fintech, Klarna
 
-Co-founded the Audio Production & Engineering subdivision at Moxie Art Co, an International Brand Strategy & Development company, where we notably won the 'Best Music Video' category in the Los Angeles Film Awards 2019.
+If you find my profile interesting, please send me a message over LinkedIn!
 
 In April of 2020, I was selected as one out of 1500 applicants to join &lt;/salt&gt;'s Full Stack Web Development Bootcamp alongside 30 other students to pursue my dream of learning web development.
 
